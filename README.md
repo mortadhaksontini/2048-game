@@ -1,6 +1,6 @@
 # A simple 2048 Clone
 
-Made this as a practice tutorial for Javascript.
+Made this as a practice for Javascript.
 
 ## Done
 * Grid created in HTML CSS
@@ -12,6 +12,7 @@ Made this as a practice tutorial for Javascript.
 
 ## Challenges
 * Create Game loop
+    
     * **Win**
         * Show a text in the winner div if a tile has reached 2048
     * **Valid Moves**
@@ -25,7 +26,7 @@ Made this as a practice tutorial for Javascript.
     * **Restart**
         * Add a restart button
         * Should reset board and start a new game.
-* Extra
-    * Add a 'Best' Scoreboard
-    * Should show value of best game in a session.
-    * Restart should reset 'score' but 'Best' score should be maximum reached score until a user reloads the browser.
+    * **Extra**
+        * Add a 'Best' Scoreboard
+        * Should show value of best game in a session.
+        * Restart should reset 'score' but 'Best' score should be maximum reached score until a user reloads the browser.
